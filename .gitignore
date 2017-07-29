@@ -16,3 +16,5 @@
 
 # Ignore SimpleTest multi-site environment.
 /public/sites/simpletest
+
+.DS_Store
